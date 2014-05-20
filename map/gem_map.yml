@@ -1,0 +1,10 @@
+---
+module:
+  name: "angular-loading-bar"
+uis:
+  - name: angular-loading-bar
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
